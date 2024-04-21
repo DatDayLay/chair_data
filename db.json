@@ -3,22 +3,34 @@
     {
       "name": "Barcelona Chair",
       "image": "Barcelona.png",
-      "price": 460
+      "price": 460,
+      "id": 1,
+      "width": 167.711,
+      "height": 217
     },
     {
       "name": "Savanna Chair",
       "image": "Savanna.png",
-      "price": 860
+      "price": 860,
+      "id": 2,
+      "width": 262,
+      "height": 209
     },
     {
       "name": "Acapulco Chair",
       "image": "Acapulco.png",
-      "price": 650
+      "price": 650,
+      "id": 3,
+      "width": 262,
+      "height": 221
     },
     {
       "name": "Cambri Chair",
       "image": "Cambri.png",
-      "price": 860
+      "price": 860,
+      "id": 4,
+      "width": 208.348,
+      "height": 233
     }
   ]
 }
