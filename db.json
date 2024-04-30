@@ -32,5 +32,87 @@
       "width": 208.348,
       "height": 233
     }
+  ],
+  "decor": [
+    {
+      "id": 1,
+      "name": "Living room set",
+      "image": "livingRoom.png"
+    },
+    {
+      "id": 2,
+      "name": "Kitchen set",
+      "image": "kitchen.png"
+    },
+    {
+      "id": 3,
+      "name": "Bedroom set",
+      "image": "bedroom.png"
+    },
+    {
+      "id": 4,
+      "name": "Home decor",
+      "image": "homeDecor.jpg"
+    }
+  ],
+  "arrivals": [
+    {
+      "id": 1,
+      "name": "Lagoon Patio Chair",
+      "image": "lagoon.png",
+      "price": 80
+    },
+    {
+      "id": 2,
+      "name": "Nova Nest Armchair",
+      "image": "nova.png",
+      "price": 80
+    },
+    {
+      "id": 3,
+      "name": "Moonlit Muse Chair",
+      "image": "moonlit.png",
+      "price": 69
+    },
+    {
+      "id": 4,
+      "name": "Wooden Bookshelf",
+      "image": "wwoden.png",
+      "price": 85
+    }
+  ],
+  "clients": [
+    {
+      "id": 1,
+      "headline": "Worth the price!",
+      "comment": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.",
+      "image": "palash.png",
+      "name": "Palash Banarjee",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "id": 2,
+      "headline": "Nice product!",
+      "comment": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "image": "sumukha.png",
+      "name": "Sumukha",
+      "location": "New York  City"
+    },
+    {
+      "id": 3,
+      "headline": "Awesome!",
+      "comment": "The printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the.",
+      "image": "ashis.png",
+      "name": "Ashis Saha",
+      "location": "Los Angeles"
+    },
+    {
+      "id": 4,
+      "headline": "Couldn't be better!",
+      "comment": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.",
+      "image": "sumukha.png",
+      "name": "Steve Nile",
+      "location": "Brooklyn Ny"
+    }
   ]
 }
