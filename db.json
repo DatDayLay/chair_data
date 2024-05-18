@@ -6,7 +6,9 @@
       "price": 460,
       "id": 1,
       "width": 167.711,
-      "height": 217
+      "height": 217,
+      "routeId": 1,
+      "details": "The Grey Barcelona Chair exudes timeless elegance with its sleek design and sophisticated grey upholstery. Crafted for comfort and style, its tufted cushions and polished metal frame offer both luxury and durability. Perfect for any modern living space, it’s a classic piece that enhances any décor."
     },
     {
       "name": "Savanna Chair",
@@ -14,7 +16,9 @@
       "price": 860,
       "id": 2,
       "width": 262,
-      "height": 209
+      "height": 209,
+      "routeId": 2,
+      "details": "The Orange Savannah Chair adds a vibrant touch to any room with its sleek design and bold orange upholstery. Comfortable and durable, it offers ergonomic support and modern style, making it perfect for both relaxing and entertaining."
     },
     {
       "name": "Acapulco Chair",
@@ -22,7 +26,9 @@
       "price": 650,
       "id": 3,
       "width": 262,
-      "height": 221
+      "height": 221,
+      "routeId": 3,
+      "details": "The Black Acapulco Chair blends modern design with classic comfort. Its striking black woven design offers both style and breathability, while the sturdy frame ensures durability. Perfect for indoor or outdoor use, it adds a chic touch to any space."
     },
     {
       "name": "Cambri Chair",
@@ -30,7 +36,9 @@
       "price": 860,
       "id": 4,
       "width": 208.348,
-      "height": 233
+      "height": 233,
+      "routeId": 4,
+      "details": "The Dark Green Cambri Chair combines modern elegance with comfort. Its rich green upholstery adds sophistication to any room, while the ergonomic design and sturdy build ensure lasting comfort and support. Perfect for both relaxing and entertaining, it’s a stylish addition to any space."
     }
   ],
   "decor": [
@@ -60,25 +68,33 @@
       "id": 1,
       "name": "Lagoon Patio Chair",
       "image": "lagoon.png",
-      "price": 80
+      "price": 80,
+      "routeId": 5,
+      "details": "The Plaid Design Lagoon Patio Chair adds a touch of whimsy to your outdoor space. Featuring a charming plaid pattern, this chair offers both comfort and durability with its weather-resistant fabric and sturdy frame. Perfect for lounging in style, it’s a delightful addition to any patio or garden."
     },
     {
       "id": 2,
       "name": "Nova Nest Armchair",
       "image": "nova.png",
-      "price": 80
+      "price": 80,
+      "routeId": 6,
+      "details": "The Blue Nova Nest Armchair combines contemporary style with ultimate comfort. Its plush blue upholstery and cushioned design provide a cozy seating experience, while the sleek lines and sturdy frame add a modern touch to any room. Perfect for relaxing, it’s a standout piece in any living space."
     },
     {
       "id": 3,
       "name": "Moonlit Muse Chair",
       "image": "moonlit.png",
-      "price": 69
+      "price": 69,
+      "routeId": 7,
+      "details": "The Purple Moonlit Muse Chair exudes elegance and sophistication with its deep purple upholstery and luxurious design. The plush cushioning and ergonomic support provide exceptional comfort, while its stylish silhouette makes it a striking focal point in any room. Perfect for adding a touch of glamour to your living space."
     },
     {
       "id": 4,
       "name": "Wooden Bookshelf",
       "image": "wwoden.png",
-      "price": 85
+      "price": 85,
+      "routeId": 8,
+      "details": "The Wooden Bookshelf Chair combines functionality with rustic charm. Crafted from high-quality wood, it features built-in shelves perfect for storing books and decorative items. Its sturdy design and natural finish make it a versatile and stylish addition to any room."
     }
   ],
   "clients": [
